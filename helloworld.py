@@ -11,3 +11,6 @@ print(rand2)
 
 # sum of the two numbers
 print('Sum =', rand1 + rand2)
+
+# computer the average of the numbers
+print('Average =', (rand1 + rand2) / 2)
